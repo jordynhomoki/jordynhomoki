@@ -2,7 +2,7 @@
 - I’m interested in mathematics, statistics, and genetics
 - I’m currently learning ...
 - I’m looking to collaborate on ...
-- How to reach me: homokijr@miamioh.edu
+- How to reach me: jordynhomoki@hsph.harvard.edu
 
 <!---
 jordynhomoki/jordynhomoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
